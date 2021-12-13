@@ -13,11 +13,11 @@ $ sudo pip install virtualenv
 - Clone this repository:
 ```console
 $ git clone https://github.com/NastyaOdv/test_Yalantis_Python_School.git
-$ cd test_carpark
+$ cd test_Yalantis_Python_School
 ```
 or you can download project ZIP, extract it and enter the folder:
 ```console
-$ cd yalantisTest
+$ cd test_Yalantis_Python_School
 ```
 - Create virtual environment with virtualenv:
 ```console
