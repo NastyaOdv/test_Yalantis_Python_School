@@ -43,5 +43,5 @@ $ python manage.py runserver
 ```
 If another application uses port 8000, you can use with another port:
 ```console
-$ python manage.py runserver 8001
+$ python manage.py runserver 8000
 ```
