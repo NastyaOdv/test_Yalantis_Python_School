@@ -12,12 +12,12 @@ $ sudo pip install virtualenv
 ## Install
 - Clone this repository:
 ```console
-$ git clone https://github.com/Pokaori/test_carpark.git
+$ git clone https://github.com/NastyaOdv/test_Yalantis_Python_School.git
 $ cd test_carpark
 ```
 or you can download project ZIP, extract it and enter the folder:
 ```console
-$ cd test_carpark
+$ cd yalantisTest
 ```
 - Create virtual environment with virtualenv:
 ```console
